@@ -1,4 +1,4 @@
 output
-env
+myenv
 __pycache__
 .vscode
